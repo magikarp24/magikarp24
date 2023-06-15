@@ -1,0 +1,69 @@
+/*All*/
+body {
+background-image:url("Images/ezgif-5-ab0083777e.gif");
+}
+#container {
+	background-color: black;
+	max-width: 800px;
+	width: 70%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 1%;
+	box-shadow: black 0px 5px 10px;;
+}
+#nav {
+	color: #40913d;
+	padding-right: 3%;
+	padding-left: 3%;
+	padding-bottom: 5%;
+}
+#nav table {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+/*Website.html*/
+#main_text {
+	padding: 3%;
+	color: #40913d;
+}
+#lain_gif {
+	padding-right: 3%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+/*Images.html*/
+#image_slideshow {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5%;
+	height: 75%;
+	width: 75%;
+}
+
+#table_img {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+#image_slideshow img{
+    width:100%;
+    max-width:500px;
+}
+
+video{
+    width:100%;
+    max-width:500px;
+}
+
+/*Poem*/
+#home{
+	color: #40913d;
+	width: '500px';
+	padding: 3%;
+}
